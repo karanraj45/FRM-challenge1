@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
@@ -85,3 +86,9 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# FRM-challenge1
+qr component challenge on FRONTEND MENTOR 
+
+Created the component using basic Bootstrap ,and some features of flexbox
+>>>>>>> 484962745d9039812e967f95e21c367ec749936e
